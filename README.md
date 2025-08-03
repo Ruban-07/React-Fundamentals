@@ -15,3 +15,5 @@
 7. State Passing `Parent Component` to `Child Component` using `useState()` hook.
 
 8. State Passing `Child Component` to `Parent component` using `useState()` hook.
+
+9. Data fetching while UI Mounting using `useEffect()` API Call.
