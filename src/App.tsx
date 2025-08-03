@@ -8,6 +8,7 @@ import ThirdParentComponent from "./pages/example_3/ThirdParentComponent";
 import FifthParentComponent from "./pages/example_5/FifthParentComponent";
 import SecondParentComponent from "./pages/example_2/SecondParentComponent";
 import FourthParentComponent from "./pages/example_4/FourthParentComponent";
+import DependencyUpdate from "./pages/dependency_update/DependencyUpdate";
 
 const App: React.FC = () => {
   return (
@@ -35,6 +36,9 @@ const App: React.FC = () => {
       <br />
       <hr />
       <UserList />
+      <br />
+      <hr />
+      <DependencyUpdate />
     </>
   );
 };
