@@ -9,3 +9,5 @@
 4. Conditionally rendering the elements.
 
 5. And Conditionally changing Dark Mode & Light Mode.
+
+6. Simple Counter App using useState() Hook.
