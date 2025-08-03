@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.bg-dark {
+  color: white;
+  padding: 20px 40px;
+  border-radius: 20px;
+  background-color: black;
+}
+
+.bg-light {
+  color: black;
+  padding: 20px 40px;
+  border-radius: 20px;
+  background-color: white;
+}
