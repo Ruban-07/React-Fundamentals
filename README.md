@@ -11,3 +11,5 @@
 5. And Conditionally changing Dark Mode & Light Mode.
 
 6. Simple Counter App using useState() Hook.
+
+7. State Passing Parent Component to child component using useState() hook.

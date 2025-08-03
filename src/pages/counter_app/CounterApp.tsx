@@ -2,7 +2,7 @@ import type React from "react";
 import { useState } from "react";
 
 const CounterApp: React.FC = () => {
-    const [count, setCount] = useState(0);
+    const [count, setCount] = useState<number>(0);
 
     const increaseCount: () => void = () => {
         setCount((previousValue) => previousValue + 1);
